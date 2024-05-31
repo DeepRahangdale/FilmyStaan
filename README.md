@@ -39,7 +39,7 @@ Enhance your movie discovery experience with dynamic searching, powered by TMDB 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AdityaGoel0320/FilmSphere-The-place-to-become-more-energetic.git
+   git clone https://github.com/DeepRahangdale/FilmyStaan
    ```
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ Enhance your movie discovery experience with dynamic searching, powered by TMDB 
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Adding Environment Variables:**
