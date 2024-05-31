@@ -1,4 +1,4 @@
-# FilmyStaan
+# FilmyStaan - (Movie Library)
 
 FilmyStaan is your ultimate destination to explore and engage with movies. Whether you're a casual movie enthusiast or a dedicated cinephile, FilmyStaan offers a seamless cinematic experience with a plethora of features to enhance your movie discovery journey.
 
