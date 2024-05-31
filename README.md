@@ -1,10 +1,30 @@
 # FilmyStaan - (Movie Library)
 
-FilmyStaan is your ultimate destination to explore and engage with movies. Whether you're a casual movie enthusiast or a dedicated cinephile, FilmyStaan offers a seamless cinematic experience with a plethora of features to enhance your movie discovery journey.
+FilmyStaan is your ultimate destination to explore and engage with movies. Whether you're a casual movie enthusiast or a dedicated cinephile, FilmyStaan offers a seamless cinematic experience with a plethora of features to enhance your movie discovery journey. Powered by Chakra UI, ReactJS, Firebase for authentication and database management, and TMDB API integration, FilmyStaan provides an immersive platform for intuitive navigation, personalized watchlists, and comprehensive movie data.
 
 **Live Deployed Link:** [FilmyStaan Live](https://filmy-staan.vercel.app/)
 
 ## Features
+<div align="center">
+  <img src="images/homepage.png" alt="Image 1">
+</div>
+<div align="center">
+  <img src="images/moviedetails.png" alt="Image 1">
+</div>
+
+<div align="center">
+  <img src="images/search.png" alt="Image 1">
+</div>
+
+<div align="center">
+  <img src="images/watchlist.png" alt="Image 1">
+</div>
+
+
+<div align="center">
+  <img src="images/mob_home.jpg" width="400" alt="Image 1">
+  <img src="images/mob_watchlist.jpg" width="400" alt="Image 2">
+</div>
 
 ### Dynamic Routing
 
