@@ -1,45 +1,33 @@
-# FilmSphere
+# FilmyStaan - (Movie Library)
 
-FilmSphere is your ultimate destination to explore and engage with movies. Powered by Chakra, ReactJS, Firebase, and TMDB API, it offers a seamless cinematic experience with a plethora of features.
+FilmyStaan is your ultimate destination to explore and engage with movies. Whether you're a casual movie enthusiast or a dedicated cinephile, FilmyStaan offers a seamless cinematic experience with a plethora of features to enhance your movie discovery journey.
 
-**Live Deployed Link:** [FilmSphere Live](https://film-sphere.vercel.app/)
+**Live Deployed Link:** [FilmyStaan Live](https://filmy-staan.vercel.app/)
 
 ## Features
 
 ### Dynamic Routing
 
-Easily navigate through our extensive collection of movies with intuitive dynamic routing, ensuring a smooth and immersive browsing experience.
-
-![Dynamic Routing Screenshot](images/dynamic_routing.png)
+FilmyStaan employs dynamic routing to provide a fluid and intuitive browsing experience. Our dynamic routing system categorizes movies based on genres, release years, and popularity, allowing users to navigate effortlessly through our extensive collection. Whether you're looking for classic movies, recent releases, or exploring specific genres, FilmyStaan's dynamic routing ensures a smooth and immersive exploration journey.
 
 ### Authentication & Authorization
 
-Securely access your personalized FilmSphere account with robust authentication and authorization mechanisms, safeguarding your data and preferences.
-
-![Authentication Screenshot](images/authentication.png)
+At FilmyStaan, we prioritize the security and privacy of our users. Our robust authentication and authorization mechanisms ensure that user accounts are protected and data is secured. FilmyStaan's authentication system allows users to create personalized accounts, securely login, and access exclusive features such as personalized recommendations, watchlists, and user-generated content. With secure authentication and authorization in place, users can enjoy a personalized and safe movie exploration experience.
 
 ### Watchlist
 
-Curate your own watchlist of movies to watch later, conveniently organizing your cinematic preferences for easy access and reference.
-
-![Watchlist Screenshot](images/watchlist.png)
+FilmyStaan's watchlist feature is designed to enhance user convenience and organization. Users can curate their own watchlists by adding movies they want to watch later or revisit. The watchlist feature allows users to prioritize and manage their cinematic preferences, making it easy to track and discover new movies of interest. Whether you're bookmarking upcoming releases or saving timeless classics, FilmyStaan's watchlist feature ensures that your movie preferences are always at your fingertips.
 
 ### TMDB Integration
 
-Leverage the power of TMDB API to access comprehensive movie data, including details, ratings, reviews, and more, enriching your movie exploration journey.
-
-![TMDB Integration Screenshot](images/tmdb_integration.png)
-
-### Dynamic Searching
-
-Enhance your movie discovery experience with dynamic searching, powered by TMDB API, allowing you to easily find and explore a wide range of movies.
+FilmyStaan integrates seamlessly with The Movie Database (TMDB) API to provide comprehensive and up-to-date movie information. TMDB integration enriches FilmyStaan's content with detailed movie descriptions, ratings, reviews, trailers, cast information, and more. By leveraging TMDB's vast database of movies and TV shows, FilmyStaan offers users a wealth of information and insights for their movie exploration journey. From exploring popular titles to discovering hidden gems, TMDB integration enhances the depth and quality of content available on FilmyStaan.
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AdityaGoel0320/FilmSphere-The-place-to-become-more-energetic.git
+   git clone https://github.com/DeepRahangdale/FilmyStaan
    ```
 
 2. Install dependencies:
@@ -51,7 +39,7 @@ Enhance your movie discovery experience with dynamic searching, powered by TMDB 
 3. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Adding Environment Variables:**
@@ -70,8 +58,9 @@ Enhance your movie discovery experience with dynamic searching, powered by TMDB 
 
    These variables are crucial for the smooth running of the project.
 
-**Live Deployed Link:** [FilmSphere Live](https://film-sphere.vercel.app/)
+**Live Deployed Link:** [FilmyStaan Live](https://filmy-staan.vercel.app/)
 
 ## Contribute
 
-FilmSphere is open-source, and we welcome contributions from the community. Feel free to submit bug reports, feature requests, or pull requests to help us improve FilmSphere together.
+FilmyStaan is open-source, and we welcome contributions from the community. Feel free to submit bug reports, feature requests, or pull requests to help us improve FilmyStaan together.
+Let me know if there's anything else you'd like to add or modify!
