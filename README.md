@@ -1,8 +1,8 @@
-# FilmSphere
+# FilmyStaan
 
-FilmSphere is your ultimate destination to explore and engage with movies. Powered by Chakra, ReactJS, Firebase, and TMDB API, it offers a seamless cinematic experience with a plethora of features.
+FilmyStaan is your ultimate destination to explore and engage with movies. Powered by Chakra, ReactJS, Firebase, and TMDB API, it offers a seamless cinematic experience with a plethora of features.
 
-**Live Deployed Link:** [FilmSphere Live](https://film-sphere.vercel.app/)
+**Live Deployed Link:** [FilmyStaan Live](https://film-staan.vercel.app/)
 
 ## Features
 
@@ -14,7 +14,7 @@ Easily navigate through our extensive collection of movies with intuitive dynami
 
 ### Authentication & Authorization
 
-Securely access your personalized FilmSphere account with robust authentication and authorization mechanisms, safeguarding your data and preferences.
+Securely access your personalized FilmyStaan account with robust authentication and authorization mechanisms, safeguarding your data and preferences.
 
 ![Authentication Screenshot](images/authentication.png)
 
@@ -70,8 +70,9 @@ Enhance your movie discovery experience with dynamic searching, powered by TMDB 
 
    These variables are crucial for the smooth running of the project.
 
-**Live Deployed Link:** [FilmSphere Live](https://film-sphere.vercel.app/)
+**Live Deployed Link:** [FilmyStaan Live](https://film-sphere.vercel.app/)
 
 ## Contribute
 
-FilmSphere is open-source, and we welcome contributions from the community. Feel free to submit bug reports, feature requests, or pull requests to help us improve FilmSphere together.
+FilmyStaan is open-source, and we welcome contributions from the community. Feel free to submit bug reports, feature requests, or pull requests to help us improve FilmyStaan together.
+Let me know if there's anything else you'd like to add or modify!
