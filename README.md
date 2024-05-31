@@ -20,6 +20,7 @@ FilmyStaan is your ultimate destination to explore and engage with movies. Wheth
   <img src="images/watchlist.png" alt="Image 1">
 </div>
 
+## Responsive Design - Compatible with Mobile and Tablets
 
 <div align="center">
   <img src="images/mob_home.jpg" width="400" alt="Image 1">
